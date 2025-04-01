@@ -1,0 +1,10 @@
+Project Plan - Dynamic Blog Website
+
+index.html - Will display the list of blog posts
+new-post.html - Will create a form for a new blog post
+post.html - will allow user to view or edit a specific page
+
+Features:
+1. CRUD blog posts using javascript
+2. store blog posts 
+3. Basic styling using css
